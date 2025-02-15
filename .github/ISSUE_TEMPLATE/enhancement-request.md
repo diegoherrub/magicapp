@@ -1,10 +1,17 @@
 ---
 name: Enhancement Request
-about: Suggest an improvement for an existing feature
+about: Suggest an improvement for an existing feature.
 title: 'Enhancement Request: '
 labels: enhancement
 assignees: diegoherrub
 
+---
+
+---
+name: "🚀 Enhancement Request"
+about: "Suggest an improvement for an existing feature."
+title: "Enhancement: "
+labels: ["enhancement"]
 ---
 
 ## 📝 Description  

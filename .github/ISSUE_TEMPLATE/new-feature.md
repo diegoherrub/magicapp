@@ -1,10 +1,17 @@
 ---
 name: New feature
-about: Suggest an idea for this project
+about: Suggest an idea for this project.
 title: 'Feature: '
 labels: feature
 assignees: diegoherrub
 
+---
+
+---
+name: "🚀 New FFeature"
+about: "Suggest an idea for this project."
+title: "Feature: "
+labels: ["feature"]
 ---
 
 ## 📝 Description  
