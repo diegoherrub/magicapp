@@ -8,7 +8,7 @@ assignees: diegoherrub
 ---
 
 ---
-name: "🚀 New FFeature"
+name: "🚀 New Feature"
 about: "Suggest an idea for this project."
 title: "Feature: "
 labels: ["feature"]

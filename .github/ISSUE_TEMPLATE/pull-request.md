@@ -24,7 +24,7 @@ List the tests performed to verify that the enhancement works as expected.
 Attach any relevant screenshots or recordings.  
 
 ## ✅ Checklist  
-- [ ] The branch follows the correct format: `enhancement/issue_number/short_description`.  
+- [ ] The branch follows the correct format: `feature/issue_number/short_description`.  
 - [ ] I have added a clear and descriptive PR title.  
 - [ ] I have assigned myself as the author.  
 - [ ] I have added at least two reviewers.  
