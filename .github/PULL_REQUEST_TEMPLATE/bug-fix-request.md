@@ -15,9 +15,9 @@ A clear and concise description of the bug and the fix applied.
 
 ## 📌 Changes Made
 List the main changes introduced in this PR:
-- [] Fixed the issue with '...'
-- [] Refactored '...' to prevent future bugs
-- [] Updated tests/documentation if needed
+- [ ] Fixed the issue with '...'
+- [ ] Refactored '...' to prevent future bugs
+- [ ] Updated tests/documentation if needed
 
 ## 🛠 Steps to Test
 How can this be tested?
@@ -38,16 +38,16 @@ Example:
 Closes #ISSUE_NUMBER (if applicable).
 
 ## ✅ Checklist
-- [] The branch follows the correct format: `bugfix/issue_number/short_description`.
-- [] I have added a clear and descriptive title.
-- [] I have assigned myself as the author.
-- [] I have added at least a reviewer.
-- [] This request is linked to the relevant issue.
-- [] Documentation updated.
-- [] The bug is no longer reproducible.
-- [] No new bugs were introduced.
-- [] The fix follows coding standards and best practices.
-- [] Tests pass successfully (if applicable).
+- [ ] The branch follows the correct format: `bugfix/issue_number/short_description`.
+- [ ] I have added a clear and descriptive title.
+- [ ] I have assigned myself as the author.
+- [ ] I have added at least a reviewer.
+- [ ] This request is linked to the relevant issue.
+- [ ] Documentation updated.
+- [ ] The bug is no longer reproducible.
+- [ ] No new bugs were introduced.
+- [ ] The fix follows coding standards and best practices.
+- [ ] Tests pass successfully (if applicable).
 
 ---
 
