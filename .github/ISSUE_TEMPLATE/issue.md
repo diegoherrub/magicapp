@@ -21,8 +21,8 @@ Select the type of PR by marking the appropriate option with an `X`:
 
 ## 📌 Tasks
 List the necessary tasks to complete the Issue:
-- [] Implement the functionality or change.
-- [] Complete the checklist of request.
+- [ ] Implement the functionality or change.
+- [ ] Complete the checklist of request.
 
 ## 📷 Screenshots (if applicable)
 If the changes affect the UI, add screenshots or visual examples.
