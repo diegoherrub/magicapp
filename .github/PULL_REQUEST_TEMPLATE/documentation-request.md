@@ -7,14 +7,7 @@ assignees: diegoherrub
 
 ---
 
----
-name: "📖 Documentation Request"
-about: "Suggest or update documentation for the project."
-title: "Docs: "
-labels: ["documentation"]
----
-
-## 📌 Description  
+## 📝 Description  
 Describe what needs to be documented or updated.  
 - Is it a new section or an update to existing documentation?  
 - Why is this documentation important?  

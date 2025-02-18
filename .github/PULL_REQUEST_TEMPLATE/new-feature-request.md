@@ -7,13 +7,6 @@ assignees: diegoherrub
 
 ---
 
----
-name: "🚀 New Feature"
-about: "Suggest an idea for this project."
-title: "Feature: "
-labels: ["feature"]
----
-
 ## 📝 Description  
 Briefly explain the functionality to be added.  
 - What problem does it solve?  

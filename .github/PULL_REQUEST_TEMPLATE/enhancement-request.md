@@ -7,13 +7,6 @@ assignees: diegoherrub
 
 ---
 
----
-name: "🚀 Enhancement Request"
-about: "Suggest an improvement for an existing feature."
-title: "Enhancement: "
-labels: ["enhancement"]
----
-
 ## 📝 Description  
 Describe the improvement to an existing feature.  
 - What problem does this enhancement solve?  

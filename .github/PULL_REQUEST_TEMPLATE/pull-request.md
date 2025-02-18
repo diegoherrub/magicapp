@@ -3,7 +3,7 @@ name: Pull Request
 about: Suggest an improvement or refinement to an existing feature
 title: 'Pull Request: '
 labels: pull request
-assignees: ''
+assignees: diegoherrub
 
 ---
 
