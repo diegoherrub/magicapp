@@ -28,14 +28,14 @@ Closes #ISSUE_NUMBER (if applicable).
 Attach any relevant screenshots or recordings.
 
 ## ✅ Checklist
-- [] The branch follows the correct format: `documentation/issue_number/short_description`.
-- [] I have added a clear and descriptive title.
-- [] I have assigned myself as the author.
-- [] I have added at least a reviewer.
-- [] This request is linked to the relevant issue.
-- [] The documentation is clear and well-structured.
-- [] Grammar and spelling have been reviewed.  
-- [] Screenshots, diagrams, or examples are included where needed. 
+- [ ] The branch follows the correct format: `documentation/issue_number/short_description`.
+- [ ] I have added a clear and descriptive title.
+- [ ] I have assigned myself as the author.
+- [ ] I have added at least a reviewer.
+- [ ] This request is linked to the relevant issue.
+- [ ] The documentation is clear and well-structured.
+- [ ] Grammar and spelling have been reviewed.  
+- [ ] Screenshots, diagrams, or examples are included where needed. 
 
 ---
 
