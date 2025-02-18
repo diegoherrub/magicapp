@@ -39,5 +39,5 @@ If you have an idea on how to fix it, describe it here.
 
 ---
 
-### 📌 Additional Notes
+### ✋ Additional Notes (Disclaimer)
 Any extra information relevant to the bug.

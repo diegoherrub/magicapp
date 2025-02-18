@@ -22,9 +22,7 @@ Select the type of PR by marking the appropriate option with an `X`:
 ## 📌 Tasks
 List the necessary tasks to complete the Issue:
 - [ ] Implement the functionality or change.
-- [ ] Add tests if applicable.
-- [ ] Update documentation if needed.
-- [ ] Ensure compatibility with existing code.
+- [ ] Complete the checklist of request.
 
 ## 📷 Screenshots (if applicable)
 If the changes affect the UI, add screenshots or visual examples.
@@ -33,9 +31,9 @@ If the changes affect the UI, add screenshots or visual examples.
 Specify the conditions required for the Issue to be considered **PR-ready** for review.
 
 ## 🔗 References
-If there are related issues, documentation links, or external references, add them here.
+- Related documentation, or external references, add them here.
 
 ---
 
-### 📌 Additional Notes
+### ✋ Additional Notes (Disclaimer)
 If there is any extra relevant information, include it in this section.
