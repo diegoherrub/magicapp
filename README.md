@@ -31,10 +31,10 @@ Ejecuta la app en tu dispositivo o en el emulador.
 La aplicación obtiene datos de cartas desde Scryfall. Se realiza una primera consulta para obtener las cartas y almacenarlas en la base de datos local.
 
 🛠 Estado del Proyecto
-[] Conexión con la API y almacenamiento en Room.
-[] Implementación de la gestión de colección.
-[] Creación de mazos con validación de formatos.
-[] Visualización de estadísticas de mazos.
+[ ] Conexión con la API y almacenamiento en Room.
+[ ] Implementación de la gestión de colección.
+[ ] Creación de mazos con validación de formatos.
+[ ] Visualización de estadísticas de mazos.
 
 📖 **Full Documentation** → [View on GitHub Pages](https://diegoherrub.github.io/magicapp/)
 
