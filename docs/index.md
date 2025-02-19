@@ -26,6 +26,7 @@ To get started with MagicApp, follow the installation guide below.
 ## 📂 Documentation Structure (temporal for testing)
 - **[Installation Guide](installation.md)** – How to set up the project.
 - **[Dependencies](dependencies.md)** – Overview of the project's dependencies.
+- **[Architecture](architecture.md)** – The project's architectural overview.)
 - **[Usage Guide](usage.md)** – How to use the main features.
 - **[API Reference](api.md)** – Information on how the app interacts with the **Scryfall API**.
 - **[Contributing](contributing.md)** – Guidelines for contributing to the project.
