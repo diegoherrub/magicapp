@@ -43,10 +43,7 @@ Describe what should happen instead.
 If you have an idea on how to fix it, describe it here.
 
 
-## 📌 Tasks
-List the necessary tasks to complete the Issue:
-- [ ] Implement the functionality or change.
-- [ ] Complete the checklist of request.
+
 
 ## 📷 Screenshots (if applicable)
 If the changes affect the UI, add screenshots or visual examples.
